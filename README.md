@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @ansarihuzaifa13
-- 👀 I’m interested in full stack App development using Flutter
-- 🌱 I’m currently working as a flutter developer
-- 💞️ I’m looking to collaborate on everything related to full stack flutter development
-- 📫 How to reach me ansarihuzaifa1310@gmail.com or +91 9619566787
+💫 About Me:
+👋 Hi, I’m Huzaifa Ansari (@ansarihuzaifa13)
+🚀 Passionate Full Stack Flutter Developer with expertise in building scalable, aesthetic, and high-performance mobile & web apps.
+💡 Always curious to explore new technologies and improve user experiences through clean architecture and modern UI design.
 
-<!---
-ansarihuzaifa13/ansarihuzaifa13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests
+📱 Full Stack App Development with Flutter
+
+🎨 Aesthetic UI/UX design
+
+🔌 API integration & state management
+
+🗄 Local & cloud storage solutions
+
+🚀 Performance optimization for mobile apps
+
+🌱 Currently
+Working as a Flutter Developer
+
+Building personal and client projects with Flutter + Firebase + REST APIs
+
+Experimenting with state management patterns and CI/CD pipelines
+
+💞 Looking to Collaborate On
+🛠 Full stack Flutter applications
+
+🔄 Flutter + Web integration projects
+
+📦 Open-source Flutter packages
+
+📫 Reach Me At
+📧 Email: ansarihuzaifa1310@gmail.com
+📱 Phone: +91 9619566787
+💼 LinkedIn: [linkedin.com/in/huzaifa-ansari](https://www.linkedin.com/in/mohammed-huzaifa-ansari-9261b7180/)
+🌐 Portfolio: https://ansarihuzaifa13.github.io/dev_portfolio/
+
